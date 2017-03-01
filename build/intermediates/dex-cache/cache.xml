@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_801eddbbf38de5b70107c3bc050576358121396b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_da71457980b23b81574f21ba318b783c9b7766e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_da71457980b23b81574f21ba318b783c9b7766e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_e48f239dec5798a3f2353f4000cec46c91ce4784/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_a1ff425b71358d67866fe2ea3990b0c205296f29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_a1ff425b71358d67866fe2ea3990b0c205296f29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_de552bf54e7e09f1e748b0b2432feb2704315737/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_23f18a5ed55adc83bfe672c30d4d98163de6dbab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_23f18a5ed55adc83bfe672c30d4d98163de6dbab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_e48f239dec5798a3f2353f4000cec46c91ce4784.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_801eddbbf38de5b70107c3bc050576358121396b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8c34fb699c1e7f940d5566b888f7715554ea5c9">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9103310c5ac0177ab6655372a750ecd8e1d5fd07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_f4d2d2bafec5059d3352f87e55c858cac5ba53bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_7d1d40527d01d56901738cb3b9cae5055cbf6def/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_f4d2d2bafec5059d3352f87e55c858cac5ba53bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_6154136fa5ab7ac6465357b1f801745c7c48b7cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_f563cd2e7a995e3f58209609bfbaed724b4ebc17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_6b2ea6a452d9bdb3e88965a5c5de58c154fe106b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_6b2ea6a452d9bdb3e88965a5c5de58c154fe106b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_62885287c81393c9d25c4f406a5e4220cfc4d8b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_60ef1b6212fdd38eb3ca2a47116ee4c8c194d531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2991e6ee214deaa51bafe41331b963797411cef">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e7f58333ce7c3adecf059dd13fa1946c2e67427d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_62885287c81393c9d25c4f406a5e4220cfc4d8b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_60ef1b6212fdd38eb3ca2a47116ee4c8c194d531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/flo071/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_f563cd2e7a995e3f58209609bfbaed724b4ebc17.jar" />
+    </item>
+
+</items>

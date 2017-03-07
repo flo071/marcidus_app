@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5379766661778"
+    token="5084500531732572307"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="77" />
+    <task
+        name="instant-run-dex"
+        duration="5" />
+    <task
+        name="instant-run-transform"
+        duration="32" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="4894251099965"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5289070381964"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.2.0_005838d1e28e9f72afedcf39dac7381c500b85e7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_f4d2d2bafec5059d3352f87e55c858cac5ba53bc/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_60ef1b6212fdd38eb3ca2a47116ee4c8c194d531/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_de552bf54e7e09f1e748b0b2432feb2704315737/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e7f58333ce7c3adecf059dd13fa1946c2e67427d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9103310c5ac0177ab6655372a750ecd8e1d5fd07/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_f563cd2e7a995e3f58209609bfbaed724b4ebc17/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_6b2ea6a452d9bdb3e88965a5c5de58c154fe106b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_a1ff425b71358d67866fe2ea3990b0c205296f29/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_da71457980b23b81574f21ba318b783c9b7766e8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_7d1d40527d01d56901738cb3b9cae5055cbf6def/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_801eddbbf38de5b70107c3bc050576358121396b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_23f18a5ed55adc83bfe672c30d4d98163de6dbab/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_62885287c81393c9d25c4f406a5e4220cfc4d8b8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_e48f239dec5798a3f2353f4000cec46c91ce4784/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_6154136fa5ab7ac6465357b1f801745c7c48b7cf/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="5364716613407"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="25543172366565"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/flo071/AndroidStudioProjects/marcidus2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
